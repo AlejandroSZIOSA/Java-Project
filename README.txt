@@ -1,6 +1,6 @@
 Hello there :) This is my first "Java project" as a student. 
 
-This is the final project in a Java cours called "Java Oops" of my first year as student in "Android/Ios Developer" in a institute of Stockholm(STI) Sweden.
+This is my final project in a Java cours called "Java OOps" of my first year as student in "Android/Ios Developer" in a institute of Stockholm(STI) Sweden.
 
 The project indid It is a game that I named "Crazy lucky dice"  
 
